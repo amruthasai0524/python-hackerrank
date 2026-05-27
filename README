@@ -1,0 +1,114 @@
+# Python HackerRank Solutions 🚀
+
+## 📖 Overview
+This repository contains Python solutions for various HackerRank coding challenges focused on problem-solving, algorithms, data structures, and Python programming fundamentals. The project demonstrates logical thinking, coding proficiency, and consistent hands-on practice for technical interview preparation.
+
+---
+
+## 🎯 Project Objective
+- Improve problem-solving skills using Python
+- Practice coding interview questions
+- Strengthen understanding of Data Structures & Algorithms
+- Build consistency in competitive programming
+- Enhance coding efficiency and debugging skills
+
+---
+
+## 📌 Features
+- Beginner to intermediate HackerRank solutions
+- Clean and readable Python code
+- Optimized problem-solving approaches
+- Covers multiple programming concepts
+- Structured practice repository for interview preparation
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- HackerRank
+- VS Code
+- Git & GitHub
+
+---
+
+## 📚 Topics Covered
+- Arrays
+- Strings
+- Loops
+- Functions
+- Recursion
+- Lists & Tuples
+- Dictionaries
+- Searching Algorithms
+- Sorting Algorithms
+- Object-Oriented Programming (OOP)
+- Basic Algorithms
+- Problem Solving
+
+---
+
+## 💡 Skills Demonstrated
+- Python Programming
+- Logical Reasoning
+- Problem Solving
+- Debugging
+- Algorithmic Thinking
+- Data Structures
+- Competitive Coding
+
+---
+
+## 📂 Repository Structure
+
+```bash
+python-hackerrank/
+│
+├── Problem1.py
+├── Problem2.py
+├── Problem3.py
+├── README.md
+```
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/amruthasai0524/python-hackerrank.git
+```
+
+2. Open the project folder
+
+```bash
+cd python-hackerrank
+```
+
+3. Run Python files
+
+```bash
+python filename.py
+```
+
+---
+
+## 🔗 GitHub Repository
+https://github.com/amruthasai0524/python-hackerrank
+
+---
+
+## ⭐ Future Enhancements
+- Add advanced algorithm problems
+- Include explanations for each solution
+- Add time and space complexity analysis
+- Organize files by difficulty level
+- Add optimized approaches for all problems
+
+---
+
+## 📬 Contact
+Feel free to connect for collaboration, learning, and opportunities in Python, Data Science, and AI/ML.
+
+---
+```
